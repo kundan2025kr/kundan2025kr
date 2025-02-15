@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kundan
-- 👀 I’m interested in 
+- 👀 I’m interested in Web development.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on web development
 - 📫 you can reach me with my github account, kundan2025kr.
